@@ -99,18 +99,16 @@ header {
 /********** Small Displays **********/
 
 @media (max-width:767px) {
-    header {
-        margin: 20px;
-    }
+   
     .menu-box {
         float: left;
-        margin: 0 4%;
+        margin: 0 1%;
     }
     #beef-box,
     #sushi-box {
-        margin-top: 4%;
+        margin-top: 2%;
     }
     #sushi-box {
-        margin-bottom: 4%;
+        margin-bottom: 2%;
     }
 }
